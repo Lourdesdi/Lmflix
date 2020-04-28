@@ -8,8 +8,11 @@ public class Contenido {
     public String nombre;
     public Clasificacion clasificacion;
     public Genero genero;
-    public Double Calificacion;
+    public double calificacion;
     public int anio;
     public List<Actor>elenco = new ArrayList<>();
 
+    public void reproucir(){
+
+    }
 }
