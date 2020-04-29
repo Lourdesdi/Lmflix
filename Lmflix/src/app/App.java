@@ -17,7 +17,13 @@ public class App {
         elTop = laMejorTemporada.getEpisodio(20);
 
         elTop.reproducir();
+
+        int lala;
+        lala = 0;
         
+        //miLmflix.inicializarListaNominados();
+
+        //miLmflix.reproducirTrailersDeNominacion();
     
     }
 }
